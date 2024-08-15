@@ -1,4 +1,4 @@
-import LoginRoute from "./LoginRoute"
+import UserRoute from "./UserRoute"
 export {
     LoginRoute,
 }

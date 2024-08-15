@@ -1,6 +1,6 @@
 import LoginPage from "../Pages/ClientPages/LoginPage/LoginPage.js"
-import LoginPage from "../Pages/ClientPages/HomePage/HomePage.js"
-const LoginRoute=[
+import HomePage from "../Pages/ClientPages/HomePage/HomePage.js"
+const UserRoute=[
     {
         path:'/signin/client',
         element: LoginPage
@@ -11,4 +11,4 @@ const LoginRoute=[
     },
     
 ]
-export default LoginRoute
+export default UserRoute
